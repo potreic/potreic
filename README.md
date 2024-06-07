@@ -3,7 +3,7 @@
 Hi, I'm Nibroos Aurore Majiid Haryanto, a Second Year Information Technology student from Gadjah Mada University.
 - 🖥️ Currently Exploring: Data Science, Robotic, and Open Source Projects
 - 🔭 Interests: Everything that make me happy!
-
+<!--
 ### 🎖️ Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosauro&layout=compact&theme=radical)
@@ -11,7 +11,7 @@ Hi, I'm Nibroos Aurore Majiid Haryanto, a Second Year Information Technology stu
 ### 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibroosauro&show_icons=true&theme=radical)
-
+-->
 ### 🛠 Skills
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
