@@ -20,7 +20,7 @@ Hi, I'm Nibroos Aurore Majiid Haryanto, a Second Year Information Technology stu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibroosharyanto)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@turnipthepotreic)
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibroosauro&show_icons=true&theme=radical)
 <!--
