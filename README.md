@@ -9,6 +9,16 @@ Hi, I'm Nibroos Aurore Majiid Haryanto, a Second Year Information Technology stu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+## 🎖️ Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosauro&layout=compact&theme=radical)
+
+## ✨ Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibroosharyanto)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@turnipthepotreic)
+
 <!--
 # Welcome to My GitHub Profile!
 
@@ -26,7 +36,7 @@ Hi, I'm [Your Name], a [Your Job Title] from [Your Location]. I love coding, ope
 - 💬 Ask me about [Topic]
 - 📫 How to reach me: [Email]
 - ⚡ Fun fact: [Fun Fact About You]
--->
+
 ## Skills
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,19 +48,13 @@ Hi, I'm [Your Name], a [Your Job Title] from [Your Location]. I love coding, ope
 ## GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibroosauroe&show_icons=true&theme=radical)
+-->
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosauro&layout=compact&theme=radical)
-
+<!--
 ## Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nibroosauro&theme=dracula)
 
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibroosharyanto)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@turnipthepotreic)
 
 ## A Little More About Me
 
@@ -76,7 +80,7 @@ const yourName = {
 };
 
 
-
+-->
 <!--
 **nibroosauro/nibroosauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
