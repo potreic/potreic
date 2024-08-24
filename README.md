@@ -23,7 +23,7 @@ Hi, I'm Nibroos Aurore Majiid Haryanto, a Second Year Information Technology stu
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibroosharyanto)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@turnipthepotreic)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://potreic.medium.com/)
 
 
 <!--
