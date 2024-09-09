@@ -1,6 +1,7 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi, I'm Nibroos Aurore Majiid Haryanto, a Second Year Information Technology student from Gadjah Mada University.
+Hi, I'm Nibroos Aurore Majiid Haryanto, a Third Year Information Technology student from Gadjah Mada University.
+- 🤩 Such a big fan for research and development
 - 🖥️ Currently Exploring: Data Science, Robotic, and Open Source Projects
 - 🔭 Interests: Everything that make me happy!
 <!--
