@@ -47,6 +47,5 @@ Feel free to reach out for discussions about robotics, security, or any tech top
   ✧ Transforming complex systems into elegant solutions, one line of code at a time  ✧
 <br>
 <br>
-
 Currently crafting digital experiences and pursuing knowledge at [DTETI, UGM](https://sarjana.jteti.ugm.ac.id/)
 </p>
