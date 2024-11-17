@@ -25,9 +25,11 @@ Building systems that respect both user and environment
 Approaching problems with patience and grace  
 Creating technology that brings people together
 
----
-
 ## ⋆｡°✧₊⁺ Let's Connect
+✧ Let's chat about tech, share ideas, or collaborate on mindful projects! ✧  
+<i>Feel free to reach out for discussions about robotics, security, or any tech topics that spark joy!</i>
+</p>
+
 <p align="center">
   <a href="https://instagram.com/potreic">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -38,15 +40,13 @@ Creating technology that brings people together
 </p>
 <p align="center">
 ---
-
-✧ Let's chat about tech, share ideas, or collaborate on mindful projects! ✧  
-<i>Feel free to reach out for discussions about robotics, security, or any tech topics that spark joy!</i>
-</p>
-
+  
 <p align="center">
-<i>✧ Where elegance meets engineering ✧</i>
-<i>✧ Transforming complex systems into elegant solutions, one line of code at a time  ✧</i>
-</p>
+<i>
+  ✧ Where elegance meets engineering ✧
+</i></p>
+<p align="center"><i>
+  ✧ Transforming complex systems into elegant solutions, one line of code at a time  ✧
+</i></p>
 ---
-
 Currently crafting digital experiences and pursuing knowledge at [DTETI, UGM](https://sarjana.jteti.ugm.ac.id/)
