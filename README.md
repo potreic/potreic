@@ -48,4 +48,5 @@ Feel free to reach out for discussions about robotics, security, or any tech top
 <br>
 <br>
 Currently crafting digital experiences and pursuing knowledge at [DTETI, UGM](https://sarjana.jteti.ugm.ac.id/)
+  
 </p>
