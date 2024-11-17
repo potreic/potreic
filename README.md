@@ -1,105 +1,46 @@
-# 🚀 Welcome to My GitHub Profile!
+✧˖° Hi there, potreic here! ⋆｡°✩
+Transforming complex systems into elegant solutions, one line of code at a time ✧
+<p align="center">
+  <i>Third Year Information Technology Student at Gadjah Mada University</i>
+  <br>
+  <i>Exploring the delicate balance between technology and mindfulness</i>
+</p>
+⋆｡°✧₊⁺ About Me
+I'm on a journey to redefine what it means to be in tech. While others see cold machinery, I see the poetry in algorithms and the art in engineering. My approach combines technical precision with a gentle, mindful perspective.
+˗ˏˋ What Captivates Me ´ˎ˗
+🤖 Robotics | Creating companions that bridge the gap between human and machine
+<br>
+🔐 Cybersecurity | Protecting digital spaces with grace and vigilance
+<br>
+🎛️ Control Engineering | Finding harmony in systems and signals
+<br>
+📊 Data Engineering & Processing | Weaving stories from patterns and numbers
+✧˖° My Digital Garden
+This space is a carefully curated collection of projects that reflect my growth and experiences in tech. Each repository tells a story of challenges overcome and lessons learned, documented with care and attention to detail.
+˗ˏˋ Philosophy ´ˎ˗
+I believe in:
 
-Hi, I'm Nibroos Aurore Majiid Haryanto, a Third Year Information Technology student from Gadjah Mada University.
-- 🤩 Such a big fan for research and development
-- 🖥️ Currently Exploring: Data Science, Robotic, and Open Source Projects
-- 🔭 Interests: Everything that make me happy!
-<!--
-### 🎖️ Top Languages
+Writing code that feels like poetry
+Building systems that respect both user and environment
+Approaching problems with patience and grace
+Creating technology that brings people together
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibroosauro&layout=compact&theme=radical)
+⋆｡°✧₊⁺ Let's Connect
+<p align="center">
+  <a href="https://instagram.com/potreic">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nibroosharyanto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+<p align="center">
+✧ Let's chat about tech, share ideas, or collaborate on mindful projects! ✧
+<br>
+<i>Feel free to reach out for discussions about robotics, security, or any tech topics that spark joy!</i>
+</p>
+<p align="center">
+<i>✧ Where elegance meets engineering ✧</i>
+</p>
 
-### 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibroosauro&show_icons=true&theme=radical)
--->
-### 🛠 Skills
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nibroosharyanto)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://potreic.medium.com/)
-
-
-<!--
-# Welcome to My GitHub Profile!
-
-Hi, I'm [Your Name], a [Your Job Title] from [Your Location]. I love coding, open-source projects, and collaborating with others.
-
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-
-## About Me
-
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Programming Language]
-- 👯 I’m looking to collaborate on [Project Type]
-- 🤔 I’m looking for help with [Problem/Project]
-- 💬 Ask me about [Topic]
-- 📫 How to reach me: [Email]
-- ⚡ Fun fact: [Fun Fact About You]
-
-## Skills
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibroosauroe&show_icons=true&theme=radical)
--->
-
-<!--
-## Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nibroosauro&theme=dracula)
-
-
-## A Little More About Me
-
-```javascript
-const yourName = {
-  code: ["JavaScript", "Python", "Java"],
-  askMeAbout: ["web development", "tech", "app dev"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue"],
-      css: ["materialize", "bulma", "bootstrap"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-      python: ["Flask", "Django"]
-    },
-    databases: ["MongoDB", "MySQL", "SQLite"],
-    misc: ["Firebase", "docker", "Heroku"]
-  },
-  architecture: ["Progressive web applications", "Single page applications"],
-  currentProject: ["I am developing my own portfolio website using React"],
-  funFact: "I love to draw and play guitar"
-};
-
-
--->
-<!--
-**nibroosauro/nibroosauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
+Currently crafting digital experiences and pursuing knowledge at @ugm
