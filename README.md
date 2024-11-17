@@ -1,4 +1,6 @@
+<p align="center">
 # ✧˖° Hi there, potreic here! ⋆｡°✩
+</p>
 <p align="center">
   <i>Third Year Information Technology Student at Gadjah Mada University</i>
   <br>
