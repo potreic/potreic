@@ -1,22 +1,20 @@
-<p align="center">
-# ✧˖° Hi there, potreic here! ⋆｡°✩
-</p>
-<p align="center">
-  <i>Third Year Information Technology Student at Gadjah Mada University</i>
-  <br>
-  <i>Exploring the delicate balance between technology and demure thingy</i>
-</p>
 
----
+# ✧˖° Hi there, potreic here! ⋆｡°✩
+
+<p align="center">
+  Third Year Information Technology Student at Gadjah Mada University</i>
+  <br>
+  Exploring the delicate balance between technology and demure thingy</i>
+</p>
 
 ## ⋆｡°✧₊⁺ About Me
 I'm on a journey to redefine what it means to be in tech. While others see cold machinery, I see the poetry in algorithms and the art in engineering. My approach combines technical precision with a gentle, mindful perspective.
 
 ## ˗ˏˋ What Captivates Me ´ˎ˗
-🤖 Robotics | Creating companions that bridge the gap between human and machine  
-🔐 Cybersecurity | Protecting digital spaces with grace and vigilance  
-🎛️ Control Engineering | Finding harmony in systems and signals  
-📊 Data Engineering & Processing | Weaving stories from patterns and numbers
+🤖 **Robotics** ⋆ Creating companions that bridge the gap between human and machine  
+🔐 **Cybersecurity** ♡ Protecting digital spaces with grace and vigilance  
+🎛️ **Control Engineering** ୨୧ Finding harmony in systems and signals  
+📊 **Data Engineering & Processing** ❀ Weaving stories from patterns and numbers
 
 ## ✧˖° My Digital Garden
 This space is a carefully curated collection of projects that reflect my growth and experiences in tech. Each repository tells a story of challenges overcome and lessons learned, documented with care and attention to detail.
@@ -45,8 +43,7 @@ Feel free to reach out for discussions about robotics, security, or any tech top
   
 <p align="center">
   ✧ Where elegance meets engineering ✧
-</p>
-<p align="center">
+<br>
   ✧ Transforming complex systems into elegant solutions, one line of code at a time  ✧
 </p>
 
