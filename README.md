@@ -8,7 +8,7 @@
 </p>
 
 ## ⋆｡°✧₊⁺ About Me
-I'm on a journey to redefine what it means to be in tech. While others see cold machinery, I see the poetry in algorithms and the art in engineering. My approach combines technical precision with a gentle, mindful perspective.
+I'm on a journey to redefine what it means to be in tech. While others see wire, circuit, and some machinery, I see the poetry in algorithms and the art in engineering. My approach combines technical precision with a gentle, mindful perspective.
 
 ## ˗ˏˋ What Captivates Me ´ˎ˗
 🤖 **Robotics** ⋆ Creating companions that bridge the gap between human and machine  
